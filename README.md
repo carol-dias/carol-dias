@@ -1,6 +1,6 @@
 ## Olá, eu sou a Carol Dias (:
 
-Estudante do curso de Bacharelado em Engenharia de Software (3/8), com background nas áreas administrativa e jurídica. <br>
+Estudante do curso de Bacharelado em Engenharia de Software (4/8), com background nas áreas administrativa e jurídica. <br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
