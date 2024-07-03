@@ -13,14 +13,14 @@ Estudante do curso de Bacharelado em Engenharia de Software (6/8), com backgroun
 #
 
 <div align="left">
-  <a href="https://github.com/carol-dias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-dias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-dias&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/carolinedrawanz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinedrawanz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinedrawanz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 #
 
 <div> 
   <a href = "mailto:c.drawanz.dias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carol-dias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/carolinedrawanz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
